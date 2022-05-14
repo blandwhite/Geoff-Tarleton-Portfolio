@@ -1,7 +1,7 @@
 # Geoff Tarleton Portfolio
 Personal Portfolio
 
-![](Images/me.png)
+<img width="297" src="Images/me.png">
 
 ---
 
@@ -20,6 +20,7 @@ Projects:
  - [Cryptocurrency Forecasting wth Monte Carlo Simulation](https://github.com/blandwhite/Project_1.git)
  - [Machine Learning for Anti-Money Laundering](https://github.com/blandwhite/AML_Project_two.git)
  - [Fandom_Cash: Building the Brand One Token at a Time](https://github.com/blandwhite/Fandom_Cash)
+      - contributed mainly to [ReadMe File](https://github.com/blandwhite/Fandom_Cash/blob/main/README.md), the [NFT Solidity contract](https://github.com/blandwhite/Fandom_Cash/blob/main/NFT%20Files/contracts/FanPass.sol) and the [Python Streamlit NFT Minting app](https://github.com/blandwhite/Fandom_Cash/blob/main/NFT%20Files/app_nft.py).
  
  ---
  
