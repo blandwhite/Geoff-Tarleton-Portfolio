@@ -1,7 +1,7 @@
 # Geoff Tarleton Portfolio
 Personal Portfolio
 
-![](Images/me_at_the_club.PNG)
+![](Images/me.jpg)
 
 ---
 
@@ -19,6 +19,7 @@ Topics of Study:
 Projects:
  - [Cryptocurrency Forecasting wth Monte Carlo Simulation](https://github.com/blandwhite/Project_1.git)
  - [Machine Learning for Anti-Money Laundering](https://github.com/blandwhite/AML_Project_two.git)
+ - [Fandom_Cash: Building the Brand One Token at a Time](https://github.com/blandwhite/Fandom_Cash)
  
  ---
  
