@@ -1,7 +1,7 @@
 # Geoff Tarleton Portfolio
 Personal Portfolio
 
-![](Images/me.jpg)
+![](Images/me.png)
 
 ---
 
