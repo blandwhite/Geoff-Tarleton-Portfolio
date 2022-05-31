@@ -20,7 +20,7 @@ Projects:
  - [Cryptocurrency Forecasting wth Monte Carlo Simulation](https://github.com/blandwhite/Project_1.git)
  - [Machine Learning for Anti-Money Laundering](https://github.com/blandwhite/AML_Project_two.git)
  - [Fandom_Cash: Building the Brand One Token at a Time](https://github.com/blandwhite/Fandom_Cash)
-      - contributed mainly to [ReadMe File](https://github.com/blandwhite/Fandom_Cash/blob/main/README.md), the [NFT Solidity contract](https://github.com/blandwhite/Fandom_Cash/blob/main/NFT%20Files/contracts/FanPass.sol) and the [Python Streamlit NFT Minting app](https://github.com/blandwhite/Fandom_Cash/blob/main/NFT%20Files/app_nft.py).
+      - contributed to [ReadMe File](https://github.com/blandwhite/Fandom_Cash/blob/main/README.md), the [NFT Solidity contract](https://github.com/blandwhite/Fandom_Cash/blob/main/NFT%20Files/contracts/FanPass.sol) and the [Python Streamlit NFT Minting app](https://github.com/blandwhite/Fandom_Cash/blob/main/NFT%20Files/app_nft.py).
  
  ---
  
@@ -28,7 +28,7 @@ Projects:
 
 [**Comporium**](https://www.comporium.com/), Rock Hill, SC - *Broadband Tech Support* \
 November 2021 - Present \
-Assist customers with Fiber, Cable and DSL internect connectivity.
+Assist customers with Fiber, Cable and DSL internet connectivity.
 
 [**Prisma Health West End Co-op**](https://prismahealth.org/locations/hospitals/roger-c-peace-rehabilitation-hospital/the-west-end-co-op), Greenville, SC - *Coordinator* \
 Aug 2017 - Oct 2021 \
