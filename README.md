@@ -41,7 +41,7 @@ Aug 2012 - May 2017:  *Branch Manager*
 
 ## Education
 
-**Boot Camp Certificate in FinTech, UNC-Charlotte, NC**
+**Boot Camp Certificate in FinTech, UNC-Charlotte, NC** \
 Financial Technology (Financial Coding using Python, Blockchain and Machine Learning)
 
 **University of Nort Carolina - Chapel Hill** \
