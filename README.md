@@ -7,7 +7,7 @@ Personal Portfolio
 
 ## Recent Training
 
-#### UNC-Charlotte FinTech Bootcamp
+#### UNC-Charlotte FinTech Bootcamp (Certificate)
 *November 2021 - May 2022* \
 Topics of Study:  
  - [Financial Programming with Python and Pandas](https://github.com/blandwhite/Challenge_3.git)
@@ -40,6 +40,9 @@ Jan 2010 - Aug 2012:  *Collections Account Manager* \
 Aug 2012 - May 2017:  *Branch Manager*
 
 ## Education
+
+**Boot Camp Certificate in FinTech, UNC-Charlotte, NC**
+Financial Technology (Financial Coding using Python, Blockchain and Machine Learning)
 
 **University of Nort Carolina - Chapel Hill** \
 Bachelor of Arts, Economics - 1991
