@@ -44,11 +44,12 @@ Aug 2012 - May 2017:  *Branch Manager*
 **Boot Camp Certificate in FinTech, UNC-Charlotte, NC** \
 Financial Technology (Financial Coding using Python, Blockchain and Machine Learning)
 
-**University of Nort Carolina - Chapel Hill** \
+**University of North Carolina - Chapel Hill** \
 Bachelor of Arts, Economics - 1991
 
 **Princeton University, Princeton, NJ** \
-Undergraduate Studies in Mandarin Chinese and Economics, 1985-1987
+Undergraduate Studies in Mandarin Chinese and Economics, including a semester abroad at \
+The Mandarin Training Center in Taipei, Taiwan
 
 ## Hobbies
 
